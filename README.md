@@ -1,4 +1,4 @@
-# DVS-gestureRecognition
+# DVS-gestureRecognition Project (2020.07 - 2020.09)
 
 已完成工作：
 
