@@ -1,4 +1,4 @@
-# DVS-gestureRecognition-ANN2SNN
+# DVS-gestureRecognition
 
 已完成工作：
 
