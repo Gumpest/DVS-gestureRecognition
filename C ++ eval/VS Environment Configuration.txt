@@ -1,0 +1,13 @@
+VC++目录
+ 包含目录：..\Samples\include
+D:\Program Files\opencv\build\include
+D:\Program Files\opencv\build\include\opencv
+D:\Program Files\opencv\build\include\opencv2
+库目录：..\Samples\lib\Windows\x64\debug
+D:\Program Files\opencv\build\x64\vc14\lib
+
+附加依赖项
+opencv_world330d.lib
+celex.lib
+
+
